@@ -1,0 +1,18 @@
+.time{
+    background-color: lightskyblue;
+    text-align: center;
+    padding: 24px;
+}
+.time h3{
+    border-bottom: 5px solid dodgerblue;
+    display: inline-block;
+    font-size: 28px;
+    font-weight: 400;
+    margin-bottom: 16px;
+}
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}

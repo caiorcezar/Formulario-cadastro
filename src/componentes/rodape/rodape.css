@@ -1,0 +1,14 @@
+.rodape{
+    background-color: #161c37;
+    padding: 28px;
+    color: whitesmoke;
+    text-align: center;
+}
+.rodape h4{
+    font-weight: 300;
+    font-size: 28px;
+}
+.rodape span{
+    text-transform: uppercase;
+    font-weight: 500;
+}
